@@ -47,8 +47,10 @@ const Quiz = (props) =>{
         <>
         
             <div className="score">
+
                 <p className="score-info">You score is 10/10</p>
                 <button className="button-play-again" onClick={playAgain}>Play Again</button>
+                
             </div>
 
         </>
