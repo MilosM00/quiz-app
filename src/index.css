@@ -53,3 +53,24 @@ body{
 span{
     font-weight: normal;
 }
+
+.score{
+    text-align: center;
+}
+
+.score-info{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+.button-play-again{
+    background: linear-gradient(to right,#7CB9E8, #007FFF);
+    border: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    border-radius: 10px;
+    cursor: pointer;
+}
